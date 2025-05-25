@@ -15,4 +15,5 @@
 .btnDel:hover {
   background-color: rgb(241, 89, 89);
   border-color: darkred;
+  border-radius: 2px;
 }

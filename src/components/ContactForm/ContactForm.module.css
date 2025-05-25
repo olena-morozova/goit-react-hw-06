@@ -38,4 +38,5 @@
 .btn:hover {
   background-color: cornflowerblue;
   border-color: blue;
+  border-radius: 4px;
 }
